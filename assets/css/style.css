@@ -1,6 +1,6 @@
 .midescripcion{
     display: block;
-    background: linear-gradient(90deg,#f06d86, #fcd9e1);
+    background: linear-gradient(90deg,#dd113771, #fcd9e1);
     text-align: center;
     
 }
@@ -72,15 +72,12 @@ footer{
 }
     
 
-  /*<!--jQuery 3.5.1 (sin slim)-->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+.letras-lobster{
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size: 1.2em;
+}
 
-
-
-/*
-.midescripcion{
-    background-image: url('../img/pink.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: left;
-  padding-bottom: 20rem;
+*{
+    font-family: 'Montserrat', sans-serif;
+}
